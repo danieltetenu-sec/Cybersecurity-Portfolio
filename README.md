@@ -36,11 +36,22 @@ Completed
 
 ---
 
-Additional cybersecurity projects will be added as they are completed.
-
 Upcoming Projects
 
-- Project 2 – Security Firmware Plan
-- Project 3 – In Progress
-- Project 4 – In Progress
-- Project 5 – In Progress
+Project 2 – Security Firmware Plan
+
+Status: Planned
+
+Project 3
+
+Status: In Progress
+
+Project 4
+
+Status: In Progress
+
+Project 5
+
+Status: In Progress
+
+Additional cybersecurity projects will be added as they are completed.
