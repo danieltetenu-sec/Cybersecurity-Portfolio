@@ -1,4 +1,3 @@
-# Cybersecurity-Portfolio
 Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio.
@@ -16,19 +15,32 @@ Portfolio Projects
 
 Project 1 – Operating System Security Assessment
 
-Description:
+Description
+
 A security assessment project focused on operating system security controls, risk mitigation, and security best practices.
 
-Skills Demonstrated:
+Skills Demonstrated
 
 - Security Assessment
 - Risk Analysis
 - Security Documentation
 - Cybersecurity Reporting
 
-Status:
+Deliverables
+
+- Project 1 Operating System Security Assessment (PDF)
+
+Status
+
 Completed
 
 ---
 
 Additional cybersecurity projects will be added as they are completed.
+
+Upcoming Projects
+
+- Project 2 – Security Firmware Plan
+- Project 3 – In Progress
+- Project 4 – In Progress
+- Project 5 – In Progress
