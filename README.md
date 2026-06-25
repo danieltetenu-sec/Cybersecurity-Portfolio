@@ -36,9 +36,29 @@ Completed
 
 ---
 
-## Upcoming Projects
+### Project 2 – Security Firmware Plan
 
-Project 2 – Security Firmware Plan
+#### Description
+
+A firmware security assessment and security planning project focused on identifying firmware versions, evaluating update status, and developing a security maintenance plan for connected devices.
+
+#### Skills Demonstrated
+
+- Firmware Security Assessment
+- Vulnerability Identification
+- Security Planning
+- Device Security Management
+- Security Documentation
+
+#### Deliverables
+
+Daniel_Tetenu_Security_Firmware_Plan.pdf
+
+#### Status
+
+Completed
+
+## Upcoming Projects
 
 Status: Planned
 
