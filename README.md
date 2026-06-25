@@ -13,7 +13,7 @@ This repository contains cybersecurity projects completed as part of my professi
 
 ## Portfolio Projects
 
-Project 1 – Operating System Security Assessment
+### Project 1 – Operating System Security Assessment
 
 #### Description
 
