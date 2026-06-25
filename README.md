@@ -28,7 +28,7 @@ A security assessment project focused on operating system security controls, ris
 
 #### Deliverables
 
-### Project 1 Operating System Security Assessment (PDF)
+[Download Project 1 Report](Daniel_Tetenu_Operating_System_Security_Assessment.pdf)
 
 #### Status
 
@@ -52,7 +52,7 @@ A firmware security assessment and security planning project focused on identify
 
 #### Deliverables
 
-Daniel_Tetenu_Security_Firmware_Plan.pdf
+[Download Project 2 Report](Daniel_Tetenu_Security_Firmware_Plan.pdf)
 
 #### Status
 
