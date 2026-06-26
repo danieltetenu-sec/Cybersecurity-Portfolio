@@ -62,6 +62,12 @@ Completed
 
 ### Project 3 - Risk Assessment 
 
+### Description
+
+### Skills Demonstrated
+
+### Deliverables
+
 ### Status: 
 
 Completed 
