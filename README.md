@@ -58,13 +58,15 @@ A firmware security assessment and security planning project focused on identify
 
 Completed
 
-## Upcoming Projects
+---
 
-Status: Planned
+### Project 3 - Risk Assessment 
 
-Project 3
+### Status: 
 
-Status: In Progress
+Completed 
+
+#### Portfolio Integration in Progress
 
 Project 4
 
