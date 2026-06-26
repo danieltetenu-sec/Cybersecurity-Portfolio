@@ -64,17 +64,30 @@ Completed
 
 #### Description
 
+This project presents a comprehensive cybersecurity risk assessment for a simulated logistics company. It identifies internal and external threats, evaluates their potential business impact, and recommends appropriate risk tolerance decisions using Governance, Risk, and Compliance (GRC) principles. The assessment demonstrates a structured approach to identifying, analyzing, and documenting organizational risks to support informed security decision-making.
+
 #### Skills Demonstrated
+
+- Cybersecurity Risk Assessment
+- Risk Identification and Analysis
+- Governance, Risk, and Compliance (GRC)
+- Business Impact Assessment
+- Risk Tolerance Evaluation
+- Threat Assessment
+- Security Documentation
+- Technical Report Writing
+- Critical Thinking
+- Information Security Best Practices
 
 #### Deliverables
 
 [Download Project 3 Report](Daniel_Tetenu_Risk_Assessment.pdf)
 
-### Status: 
+#### Status: 
 
 Completed 
 
-#### Portfolio Integration in Progress
+### Portfolio Integration in Progress
 
 Project 4
 
@@ -83,5 +96,9 @@ Status: In Progress
 Project 5
 
 Status: In Progress
+
+Project 6
+
+Status: In Progress 
 
 Additional cybersecurity projects will be added as they are completed.
