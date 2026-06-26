@@ -87,11 +87,32 @@ This project presents a comprehensive cybersecurity risk assessment for a simula
 
 Completed 
 
+---
+
+### Project 4 – Physical Security Control Plan
+
+### Description
+
+A physical security assessment and control planning project focused on protecting organizational facilities, critical assets, personnel, and sensitive information through layered physical and environmental security controls.
+
+#### Skills Demonstrated
+
+- Physical Security Planning
+- Access Control Implementation
+- CCTV Surveillance Planning
+- Environmental Security Controls
+- Security Documentation
+- Risk Mitigation
+
+#### Deliverables
+
+"Download Project 4 Report" (./Daniel_Tetenu_Physical_Security_Control_Plan.pdf)
+
+#### Status
+
+Completed
+
 ### Portfolio Integration in Progress
-
-Project 4
-
-Status: In Progress
 
 Project 5
 
