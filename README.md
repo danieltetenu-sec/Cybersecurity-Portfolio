@@ -62,11 +62,13 @@ Completed
 
 ### Project 3 - Risk Assessment 
 
-### Description
+#### Description
 
-### Skills Demonstrated
+#### Skills Demonstrated
 
-### Deliverables
+#### Deliverables
+
+[Download Project 3 Report](Daniel_Tetenu_Risk_Assessment.pdf)
 
 ### Status: 
 
