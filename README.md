@@ -106,7 +106,7 @@ A physical security assessment and control planning project focused on protectin
 
 #### Deliverables
 
-"Download Project 4 Report" (./Daniel_Tetenu_Physical_Security_Control_Plan.pdf)
+[Download Project 4 Report](./Daniel_Tetenu_Physical_Security_Control_Plan.pdf)
 
 #### Status
 
