@@ -112,7 +112,7 @@ A physical security assessment and control planning project focused on protectin
 
 Completed
 
-
+---
 
 ### Project 5 – Administrative Control Plan
 
@@ -137,14 +137,14 @@ A cybersecurity administrative control planning project focused on reducing huma
 
 Completed
 
-### Portfolio Integration in Progress
-
-Project 5
-
-Status: In Progress
+## Portfolio Integration in Progress
 
 Project 6
 
 Status: In Progress 
+
+Project 7 (Capstone)
+
+Status: In Progress
 
 Additional cybersecurity projects will be added as they are completed.
