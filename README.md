@@ -91,7 +91,7 @@ Completed
 
 ### Project 4 – Physical Security Control Plan
 
-### Description
+#### Description
 
 A physical security assessment and control planning project focused on protecting organizational facilities, critical assets, personnel, and sensitive information through layered physical and environmental security controls.
 
@@ -107,6 +107,31 @@ A physical security assessment and control planning project focused on protectin
 #### Deliverables
 
 [Download Project 4 Report](./Daniel_Tetenu_Physical_Security_Control_Plan.pdf)
+
+#### Status
+
+Completed
+
+
+
+### Project 5 – Administrative Control Plan
+
+#### Description
+
+A cybersecurity administrative control planning project focused on reducing human-related security risks through employee awareness training, security policies, and continuous cybersecurity education.
+
+#### Skills Demonstrated
+
+- Cybersecurity Awareness Training
+- Administrative Security Controls
+- Security Policy Implementation
+- Employee Security Education
+- Security Documentation
+- Risk Mitigation
+
+#### Deliverables
+
+[Download Project 5 Report](./Daniel_Tetenu_Administrative_Control_Plan.pdf)
 
 #### Status
 
