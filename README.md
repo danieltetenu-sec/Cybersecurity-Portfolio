@@ -137,11 +137,32 @@ A cybersecurity administrative control planning project focused on reducing huma
 
 Completed
 
+---
+
+### Project 6 – Backup Plan
+
+#### Description
+
+A comprehensive backup strategy designed to protect organizational data, support business continuity, and ensure reliable disaster recovery through industry-standard backup practices.
+
+#### Skills Demonstrated
+
+- Backup Strategy Development
+- Business Continuity Planning
+- Disaster Recovery Planning
+- 3-2-1 Backup Rule Implementation
+- Data Protection
+- Cybersecurity Documentation
+
+#### Deliverables
+
+[Download Project 6 Report](./Daniel_Tetenu_Backup_Plan.pdf)
+
+#### Status
+
+Completed
+
 ## Portfolio Integration in Progress
-
-Project 6
-
-Status: In Progress 
 
 Project 7 (Capstone)
 
