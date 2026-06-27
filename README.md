@@ -162,10 +162,36 @@ A comprehensive backup strategy designed to protect organizational data, support
 
 Completed
 
-## Portfolio Integration in Progress
+---
 
-Project 7 (Capstone)
+#### Project 7 – Enterprise Cybersecurity Assessment & Improvement Plan (Capstone)
 
-Status: In Progress
+### Description
 
-Additional cybersecurity projects will be added as they are completed.
+A comprehensive enterprise cybersecurity assessment that evaluates an organization's overall security posture and provides strategic recommendations to strengthen operating system security, firmware protection, risk management, physical security, administrative controls, backup planning, and business continuity.
+
+### Skills Demonstrated
+
+- Enterprise Cybersecurity Assessment
+- Security Strategy Development
+- Risk Management
+- Business Continuity Planning
+- Disaster Recovery Planning
+- Physical Security
+- Administrative Security Controls
+- Technical Security Controls
+- Cybersecurity Documentation
+
+### Deliverables
+
+[Download Capstone Report](./Daniel_Tetenu_Enterprise_Cybersecurity_Assessment_Improvement_Plan.pdf)
+
+### Status
+
+Completed
+
+## Portfolio Status
+
+**Portfolio Complete** ✅
+
+This repository contains my completed IBM SkillsBuild Cybersecurity portfolio, consisting of seven practical cybersecurity projects that demonstrate technical, administrative, physical, and enterprise cybersecurity planning skills.
