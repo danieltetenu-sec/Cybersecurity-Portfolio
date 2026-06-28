@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am an aspiring Cybersecurity Analyst with training in:
+I am a Certified IBM SkillsBuild Cybersecurity Analyst with hands-on experience in security assessments, risk analysis, governance, risk & compliance (GRC), security planning, and enterprise cybersecurity projects
 
 - SOC Operations
 - Vulnerability Assessment
@@ -11,7 +11,14 @@ I am an aspiring Cybersecurity Analyst with training in:
 
 This repository contains cybersecurity projects completed as part of my professional development and IBM SkillsBuild learning journey.
 
-## Portfolio Projects
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/daniel-gbenga-tetenu
+- **GitHub:** https://github.com/danieltetenu-sec
+- **Credly:** https://www.credly.com/users/daniel-gbenga-tetenu
+- **Email:** <danieltetenu.sec@gmail.com>
+
+## Cybersecurity Portfolio Projects
 
 ### Project 1 – Operating System Security Assessment
 
