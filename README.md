@@ -20,22 +20,37 @@ This repository contains cybersecurity projects completed as part of my professi
 
 ## Cybersecurity Portfolio Projects
 
-### Project 1 – Operating System Security Assessment
+### Project 1 – Operating System Security Assessment and Security Plan
 
 #### Description
 
-A security assessment project focused on operating system security controls, risk mitigation, and security best practices.
+This project evaluates the security posture of an operating system by reviewing core security controls, identifying potential risks, and recommending practical mitigation strategies. The assessment focuses on operating system hardening, authentication, event logging, software updates, port security, device security, and backup planning to improve the overall security of the environment.
 
 #### Skills Demonstrated
 
-- Security Assessment
-- Risk Analysis
-- Security Documentation
-- Cybersecurity Reporting
+- Operating System Security Assessment
+- Risk Assessment
+- Security Controls Evaluation
+- Vulnerability Identification
+- Technical Documentation
+- Security Reporting
+- Security Recommendations
+
+#### Key Findings
+
+- Reviewed operating system update and patch management practices to identify security improvement opportunities.
+- Evaluated device and port exposure to reduce potential attack surfaces.
+- Assessed logging and monitoring capabilities to strengthen security visibility and incident investigation.
+- Reviewed authentication controls protecting sensitive information.
+- Evaluated backup and recovery readiness to improve business resilience against data loss and cyber incidents.
+
+#### Outcome
+
+Developed a security improvement plan containing practical recommendations to strengthen operating system security, improve monitoring capabilities, enhance authentication controls, and increase data resilience through effective backup strategies.
 
 #### Deliverables
 
-[Download Project 1 Report](Daniel_Tetenu_Operating_System_Security_Assessment.pdf)
+(Operating_System_Security_Assessment_and_Security_Plan_Daniel_Tetenu.pdf)
 
 #### Status
 
