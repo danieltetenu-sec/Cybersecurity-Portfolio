@@ -62,19 +62,33 @@ Completed
 
 #### Description
 
-A firmware security assessment and security planning project focused on identifying firmware versions, evaluating update status, and developing a security maintenance plan for connected devices.
+This project evaluates firmware security across network-connected devices by identifying common firmware vulnerabilities, reviewing firmware versions, assessing update status, and developing a practical firmware security plan. The assessment focuses on secure firmware management, update practices, credential security, trusted firmware sources, and long-term device maintenance. 
 
 #### Skills Demonstrated
 
 - Firmware Security Assessment
-- Vulnerability Identification
-- Security Planning
-- Device Security Management
-- Security Documentation
+Security Risk Assessment
+- Firmware Vulnerability Identification
+- Security Controls Evaluation
+- Secure Configuration Management
+- Technical Documentation
+- Security Recommendations
+
+#### Key Findings
+
+Identified outdated firmware as a significant security risk and recommended regular firmware updates.
+Reviewed firmware security risks associated with default credentials and recommended strong unique passwords.
+Evaluated the risks of installing firmware from unverified sources and recommended using only official manufacturer firmware.
+Assessed firmware status for an MTN MF935 router and a TECNO Android 14 smartphone.
+Developed a firmware maintenance strategy to improve long-term device security.
+
+#### Outcome
+
+Developed a practical firmware security plan that improves device security through firmware update management, secure configuration practices, trusted firmware installation, strong authentication, and continuous firmware monitoring.
 
 #### Deliverables
 
-[Download Project 2 Report](Daniel_Tetenu_Security_Firmware_Plan.pdf)
+- 📄 [Download Firmware Security Assessment and Security Plan](./Firmware_Security_Assessment_and_Security_Plan_Daniel_Tetenu.pdf)
 
 #### Status
 
