@@ -50,7 +50,7 @@ Developed a security improvement plan containing practical recommendations to st
 
 #### Deliverables
 
-(Operating_System_Security_Assessment_and_Security_Plan_Daniel_Tetenu.pdf)
+- 📄 [Download Operating System Security Assessment and Security Plan](Operating_System_Security_Assessment_and_Security_Plan_Daniel_Tetenu.pdf)
 
 #### Status
 
